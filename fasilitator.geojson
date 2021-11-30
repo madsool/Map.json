@@ -1,0 +1,6109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.454493
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Teluk Keramat, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tua Surono Sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2831531,
+          1.3625191
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Rezha Utari",
+        "Alamat": "Sambas, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354527,
+          1.5997404
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Rezha Utari",
+        "Alamat": "Galing, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim/Susi",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -4.9911998
+        ]
+      },
+      "properties": {
+        "Fasilitator": "ali zailani",
+        "Alamat": "Sumber Jaya, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -4.9911998
+        ]
+      },
+      "properties": {
+        "Fasilitator": "ali zailani",
+        "Alamat": "Sumber Jaya, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.749645,
+          -0.9111488
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Helida",
+        "Alamat": "Sepaku, Penajam Paser Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.749645,
+          -0.9111488
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Helida Dewi Nugroho",
+        "Alamat": "Sepaku, Penajam Paser Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0169971,
+          -2.555571
+        ]
+      },
+      "properties": {
+        "Fasilitator": "bambang",
+        "Alamat": "Simpang Rimba,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1816196,
+          -2.26816
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jumadi",
+        "Alamat": "Namang,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0169971,
+          -2.555571
+        ]
+      },
+      "properties": {
+        "Fasilitator": "bambang",
+        "Alamat": "Simpang Rimba,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0169971,
+          -2.555571
+        ]
+      },
+      "properties": {
+        "Fasilitator": "bambang",
+        "Alamat": "Simpang Rimba,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6527099,
+          -3.0256951
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Mega Selyansah",
+        "Alamat": "Tukak Sadai,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354527,
+          1.5997404
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Galing, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.454493
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Darma Irawan S.St",
+        "Alamat": "Teluk Keramat, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "wiji sri wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0169971,
+          -2.555571
+        ]
+      },
+      "properties": {
+        "Fasilitator": "bambang",
+        "Alamat": "Simpang Rimba,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -4.9911998
+        ]
+      },
+      "properties": {
+        "Fasilitator": "ali zailani",
+        "Alamat": "Sumber Jaya, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "NURYONO",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Bambang Setiawan",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Bambang Setiawan",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Bambang setiawan",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "melki andrian",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "melki andrian",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.454493
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Darma Irawan S.St",
+        "Alamat": "Teluk Keramat, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.4021154,
+          1.8199703
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Darma Irawan S.St",
+        "Alamat": "Paloh, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.986397,
+          -2.384753
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ashari oramahi",
+        "Alamat": "Sungai Selan,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354527,
+          1.5997404
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Rezha Utari",
+        "Alamat": "Galing, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354527,
+          1.5997404
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Rezha Utari",
+        "Alamat": "Galing, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6527099,
+          -3.0256951
+        ]
+      },
+      "properties": {
+        "Fasilitator": "mega Selyansah",
+        "Alamat": "Tukak Sadai,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.986397,
+          -2.384753
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ashari oramahi",
+        "Alamat": "Sungai Selan,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "melki andrian",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5930548,
+          0.6873596
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ade Irawan",
+        "Alamat": "Noyan, Sanggau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354527,
+          1.5997404
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Rezha Utari",
+        "Alamat": "Galing, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.986397,
+          -2.384753
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ashari oramahi",
+        "Alamat": "Sungai Selan,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.986397,
+          -2.384753
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ashari oramahi",
+        "Alamat": "Sungai Selan,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -4.9911998
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ali Zailani",
+        "Alamat": "Sumber Jaya, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -4.9911998
+        ]
+      },
+      "properties": {
+        "Fasilitator": "ali zailani",
+        "Alamat": "Sumber Jaya, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -4.9911998
+        ]
+      },
+      "properties": {
+        "Fasilitator": "ali zailani",
+        "Alamat": "Sumber Jaya, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "indrajaya, S.TP",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "indrajaya, S.TP",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Indrajaya, S.TP",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5930548,
+          0.6873596
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ade Irawan",
+        "Alamat": "Noyan, Sanggau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Bambang setiawan",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3442794,
+          -4.9129972
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Taswan",
+        "Alamat": "Air Hitam, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2512221,
+          -4.9554198
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Batu Ketulis, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1816196,
+          -2.26816
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jumadi",
+        "Alamat": "Namang,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tua Surono Sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3442794,
+          -4.9129972
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Taswan",
+        "Alamat": "Air Hitam, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "suswanto",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "suswanto",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "suswanto",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "suswanto",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "suswanto",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1816196,
+          -2.26816
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jumadi",
+        "Alamat": "Namang,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Damendra",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yaziy",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "SUSI PRIATIN, SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "SUSI PRIATIN. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "SUSI PRIATIN. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji sri wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji sri wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim, SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Tahrim",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Bambang setiawan",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "spiceup bdg",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "NURYONO",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "evi emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Yuni Eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yuni eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yuni eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5925139,
+          0.7993346
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yuni eriyanti",
+        "Alamat": "Teriak, Bengkayang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji sri wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "jalal",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Nuryono",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin. SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3442794,
+          -4.9129972
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Taswan",
+        "Alamat": "Air Hitam, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7637619,
+          -5.3893627
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Ahyamat Yani",
+        "Alamat": "Gunung Alip, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.454493
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Teluk Keramat, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Belalau, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3442794,
+          -4.9129972
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Taswan",
+        "Alamat": "Air Hitam, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Khadavi Gunara R",
+        "Alamat": "Air Naningan, Tanggamus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8337879,
+          -4.8216406
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Kotabumi, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5422225,
+          -4.9590869
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Bukit Kemuning, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5422225,
+          -4.9590869
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Bukit Kemuning, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5422225,
+          -4.9590869
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Bukit Kemuning, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5422225,
+          -4.9590869
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Bukit Kemuning, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Simpang Katis,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin, SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin, SP.",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin, SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354527,
+          1.5997404
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Galing, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "TAHRIM SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Wiji Sri Wasita",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.749645,
+          -0.9111488
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Helida Dewi Nugroho",
+        "Alamat": "Sepaku, Penajam Paser Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Evi Emilia",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354527,
+          1.5997404
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Galing, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin, SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin, SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Susi Priatin, SP",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.749645,
+          -0.9111488
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Helida Dewi Nugroho",
+        "Alamat": "Sepaku, Penajam Paser Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.21179,
+          1.271938
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Jaka Subhan",
+        "Alamat": "Sebawi, Sambas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Lubuk Besar,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4877072,
+          -2.9321167
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Toboali,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Koba,Bangka Tengah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Kasui, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2512221,
+          -4.9554198
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Batu Ketulis, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2512221,
+          -4.9554198
+        ]
+      },
+      "properties": {
+        "Fasilitator": "alibusron",
+        "Alamat": "Batu Ketulis, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Dadang Rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "dadang rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6354631,
+          -4.9973647
+        ]
+      },
+      "properties": {
+        "Fasilitator": "dadang rahmatudin",
+        "Alamat": "Tanjung Raja, Lampung Utara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Surahman",
+        "Alamat": "Banjit, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Fasilitator": "yazit",
+        "Alamat": "Kebun Tebu, Lampung Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1110501,
+          -2.7840058
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Pulaubesar (Pulau Besar),Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.1084391
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Gerunggang,Pangkal Pinang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Fasilitator": "Naryono",
+        "Alamat": "Gunung Labuhan, Way Kanan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Fasilitator": "tua surono sihombing",
+        "Alamat": "Payung,Bangka Selatan"
+      }
+    }
+  ]
+}
