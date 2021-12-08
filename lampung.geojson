@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5122694,
+          -5.1884727
+        ]
+      },
+      "properties": {
+        "Kecamatan": "MARGA TIGA,LAMPUNG TIMUR",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5708865,
+          -5.055979
+        ]
+      },
+      "properties": {
+        "Kecamatan": "SUKADANA,LAMPUNG TIMUR",
+        "Fasilitator": "Samsul Muin",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.702937,
+          -5.1719483
+        ]
+      },
+      "properties": {
+        "Kecamatan": "WAY JEPARA,LAMPUNG TIMUR",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7468535,
+          -5.3643482
+        ]
+      },
+      "properties": {
+        "Kecamatan": "MELINTING,LAMPUNG TIMUR",
+        "Fasilitator": "Adi Yuono",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7527221,
+          -5.4198563
+        ]
+      },
+      "properties": {
+        "Kecamatan": "GUNUNG PELINDUNG,LAMPUNG TIMUR",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6647142,
+          -5.255294
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Bandar Sribhawono,LAMPUNG TIMUR",
+        "Fasilitator": "Solikin",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6004911,
+          -4.7664188
+        ]
+      },
+      "properties": {
+        "Kecamatan": "GUNUNG LABUHAN,WAY KANAN",
+        "Fasilitator": "Tahrim, Susi Priatin",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4490398,
+          -4.8401398
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Banjit,WAY KANAN",
+        "Fasilitator": "Naryono, Wiji Astuti",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4024704,
+          -4.7203719
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Kasui,WAY KANAN",
+        "Fasilitator": "Surahman",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7404269,
+          -5.0252586
+        ]
+      },
+      "properties": {
+        "Kecamatan": "ABUNG PEKURUN,LAMPUNG UTARA",
+        "Fasilitator": "Evi Emilia, Jalal",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6937674,
+          -4.8649912
+        ]
+      },
+      "properties": {
+        "Kecamatan": "ABUNG BARAT,LAMPUNG UTARA",
+        "Fasilitator": "Dadang R",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7287607,
+          -5.2379744
+        ]
+      },
+      "properties": {
+        "Kecamatan": "AIR NANINGAN,TANGGAMUS",
+        "Fasilitator": "Nuryono, Khadavi G",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8158299,
+          -5.0407642
+        ]
+      },
+      "properties": {
+        "Kecamatan": "PESISIR UTARA,PESISIR BARAT",
+        "Fasilitator": "Ahayamat Yani, Fajarudin",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9260001,
+          -5.1042791
+        ]
+      },
+      "properties": {
+        "Kecamatan": "KARYA PENGGAWA,PESISIR BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9724141,
+          -5.2250943
+        ]
+      },
+      "properties": {
+        "Kecamatan": "KRUI SELATAN,PESISIR BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8477121,
+          -5.1186801
+        ]
+      },
+      "properties": {
+        "Kecamatan": "PULAU PISANG,PESISIR BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0769024,
+          -5.2532153
+        ]
+      },
+      "properties": {
+        "Kecamatan": "PESISIR SELATAN,PESISIR BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9724141,
+          -5.1844522
+        ]
+      },
+      "properties": {
+        "Kecamatan": "PESISIR TENGAH,PESISIR BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -5.1125538
+        ]
+      },
+      "properties": {
+        "Kecamatan": "GEDUNG SURIAN,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3442794,
+          -4.9129972
+        ]
+      },
+      "properties": {
+        "Kecamatan": "AIR HITAM,LAMPUNG BARAT",
+        "Fasilitator": "Taswan. S.P",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4606845,
+          -4.9911998
+        ]
+      },
+      "properties": {
+        "Kecamatan": "SUMBER JAYA,LAMPUNG BARAT",
+        "Fasilitator": "Ali Zailani, S. P",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9492051,
+          -4.9417232
+        ]
+      },
+      "properties": {
+        "Kecamatan": "LUMBOK SEMINUNG,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1698463,
+          -5.1292832
+        ]
+      },
+      "properties": {
+        "Kecamatan": "BATU BERAK,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1814686,
+          -4.9771574
+        ]
+      },
+      "properties": {
+        "Kecamatan": "BELALAU,LAMPUNG BARAT",
+        "Fasilitator": "Alibusron",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2512221,
+          -4.9554198
+        ]
+      },
+      "properties": {
+        "Kecamatan": "BATU KETULIS,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2977433,
+          -4.9948217
+        ]
+      },
+      "properties": {
+        "Kecamatan": "SEKINCAU,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3559158,
+          -5.044088
+        ]
+      },
+      "properties": {
+        "Kecamatan": "WAY TENONG,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3442794,
+          -4.9735815
+        ]
+      },
+      "properties": {
+        "Kecamatan": "PAGAR DEWA,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5221441,
+          -5.0687419
+        ]
+      },
+      "properties": {
+        "Kecamatan": "KEBUN TEBU,LAMPUNG BARAT",
+        "Fasilitator": "Yazit. S. P",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3195733,
+          -5.2354104
+        ]
+      },
+      "properties": {
+        "Kecamatan": "BNS,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3559158,
+          -5.2874012
+        ]
+      },
+      "properties": {
+        "Kecamatan": "SUOH,LAMPUNG BARAT",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    }
+  ]
+}
