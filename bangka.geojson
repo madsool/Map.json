@@ -1,0 +1,629 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3934777,
+          -2.7034469
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Air Gegas,Bangka Selatan",
+        "Fasilitator": "Yadi",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Payung,Bangka Selatan",
+        "Fasilitator": "Bambang",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0169971,
+          -2.555571
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Simpang Rimba,Bangka Selatan",
+        "Fasilitator": "Bambang",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6527099,
+          -3.0256951
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Tukak Sadai,Bangka Selatan",
+        "Fasilitator": "Mega Selyansah",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1110501,
+          -2.7840058
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Pulau Besar,Bangka Selatan",
+        "Fasilitator": "Agus Pratomo",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.6113558
+        ]
+      },
+      "properties": {
+        "Kecamatan": "payung,Bangka Selatan",
+        "Fasilitator": "Bambang",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4877072,
+          -2.9321167
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Toboali,Bangka Selatan",
+        "Fasilitator": "Tua Surono Sihombing",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8414374,
+          -2.9458944
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Lepar Pongok,Bangka Selatan",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3817021,
+          -2.6940477
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Airgegas,Bangka Selatan",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1110501,
+          -2.7840058
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Pulau besar,Bangka Selatan",
+        "Fasilitator": "Agus Pratomo",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9112424,
+          -1.7335667
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Silip,Bangka",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8994956,
+          -2.1954965
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Mendo Barat,Bangka",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0875326,
+          -2.004507
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Merawang,Bangka",
+        "Fasilitator": "Mustamid S.PKP",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8525154,
+          -2.0446228
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Puding Besar,Bangka",
+        "Fasilitator": "Alkholik",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8525154,
+          -1.9314325
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Bakam,Bangka",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.040506,
+          -1.8919958
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Pemali,Bangka",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1149182,
+          -1.877183
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Sungailiat,Bangka",
+        "Fasilitator": "Indra Feryanto sungai liat",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8994956,
+          -2.1954965
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Mendobarat,Bangka",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8290298,
+          -1.6499633
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Belinyu,Bangka",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6412527,
+          -1.8768988
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Kelapa,Bangka Barat",
+        "Fasilitator": "ZULKARNAIN",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4536718,
+          -1.7280623
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Jebus,Bangka Barat",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3599568,
+          -1.9549619
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Simpang Teritip,Bangka Barat",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5708865,
+          -1.6333168
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Parittiga,Bangka Barat",
+        "Fasilitator": "Albet Alamin",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.658997,
+          -2.1140979
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Tempilang,Bangka Barat",
+        "Fasilitator": "Suparman",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2792729,
+          -2.8703151
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Manggar,Belitung Timur",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0491786,
+          -2.8733488
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Sp Renggiang,Belitung Timur",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0954351,
+          -3.0592898
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Gantung,Belitung Timur",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.214028,
+          -2.7716449
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Damar,Belitung Timur",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.8820831,
+          -2.9674142
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Dendang,Belitung Timur",
+        "Fasilitator": "JUARSYAH",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.985063,
+          -2.6984349
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Kelapa Kampit,Belitung Timur",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9799291,
+          -3.105589
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Sp. Pesak,Belitung Timur",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0491786,
+          -2.8733488
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Sp. Renggiang,Belitung Timur",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.986397,
+          -2.384753
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Sungai Selan,Bangka Tengah",
+        "Fasilitator": "Ashari Oramahi",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0757749,
+          -2.2788559
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Simpang Katis,Bangka Tengah",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1816196,
+          -2.26816
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Namang,Bangka Tengah",
+        "Fasilitator": "JUMADI",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3228338,
+          -2.4944583
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Koba,Bangka Tengah",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6055534,
+          -2.6050665
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Lubuk Besar,Bangka Tengah",
+        "Fasilitator": "Bambang setiawan",
+        "marker-color": "#00f900",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1345705,
+          -2.1929147
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Pangkalan Baru,Bangka Tengah",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.986397,
+          -2.384753
+        ]
+      },
+      "properties": {
+        "Kecamatan": "Sungaiselan,Bangka Tengah",
+        "Fasilitator": "-",
+        "marker-color": "#ff2600",
+        "marker-size": "small"
+      }
+    }
+  ]
+}
