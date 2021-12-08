@@ -1,0 +1,1130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Susi Priatin - Sutrisno - Kab. Way Kanan - Gunung Labuhan",
+        "Longitude": 104.5909795,
+        "Latitude": -4.76157996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5909795,
+          -4.76157996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Susi Priatin - Kotimin - Kab. Way Kanan - Gunung Labuhan",
+        "Longitude": 104.5642506,
+        "Latitude": -4.7864662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5642506,
+          -4.7864662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Susi Priatin - Gunaryo - Kab. Way Kanan - Gunung Labuhan",
+        "Longitude": 104.5682452,
+        "Latitude": -4.77249106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5682452,
+          -4.77249106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Tahrim - Bukhori - Kab. Way Kanan - Gunung Labuhan",
+        "Longitude": 104.5898644,
+        "Latitude": -4.81911757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5898644,
+          -4.81911757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Tahrim - M Ismail Jais - Kab. Way Kanan - Gunung Labuhan",
+        "Longitude": 104.6217009,
+        "Latitude": -4.78879708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6217009,
+          -4.78879708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Tahrim - Sidik Wahonoa z b . - Kab. Way Kanan - Gunung Labuhan",
+        "Longitude": 104.5754718,
+        "Latitude": -4.66967731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5754718,
+          -4.66967731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Wiji Sri Wasita - Herman - Kab. Way Kanan - Banjit",
+        "Longitude": 104.4851107,
+        "Latitude": -4.82482721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4851107,
+          -4.82482721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jalal - Sukono - Kab. Lampung Utara - Tanjung Raja",
+        "Longitude": 104.6761823,
+        "Latitude": -4.90029121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6761823,
+          -4.90029121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jalal - Rohman - Kab. Lampung Utara - Tanjung Raja",
+        "Longitude": 104.6763514,
+        "Latitude": -4.88984883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6763514,
+          -4.88984883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jalal - Tata Sumitra - Kab. Lampung Utara - Tanjung Raja",
+        "Longitude": 104.6775682,
+        "Latitude": -4.94183486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6775682,
+          -4.94183486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Solikin - Santoso - Kab. Lampung Timur - Bandar Sribhawono (Bandar Sribawono)",
+        "Longitude": 105.733745,
+        "Latitude": -5.323723333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.733745,
+          -5.323723333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Solikin - Kamijo - Kab. Lampung Timur - Bandar Sribhawono (Bandar Sribawono)",
+        "Longitude": 105.72266,
+        "Latitude": -5.337141667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.72266,
+          -5.337141667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Solikin - Purwanto - Kab. Lampung Timur - Bandar Sribhawono (Bandar Sribawono)",
+        "Longitude": 105.7168204,
+        "Latitude": -5.33744463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7168204,
+          -5.33744463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Solikin - Tukimin - Kab. Lampung Timur - Bandar Sribhawono (Bandar Sribawono)",
+        "Longitude": 105.730755,
+        "Latitude": -5.326895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.730755,
+          -5.326895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Samsul Muin - Ruspitoyo - Kab. Lampung Timur - Sukadana",
+        "Longitude": 105.5938272,
+        "Latitude": -5.15646379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5938272,
+          -5.15646379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Samsul Muin - Sutrisno - Kab. Way Kanan - Gunung Labuhan",
+        "Longitude": 104.5909795,
+        "Latitude": -4.76157996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5909795,
+          -4.76157996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Samsul Muin - Susilo - Kab. Lampung Timur - Sukadana",
+        "Longitude": 105.5831943,
+        "Latitude": -5.13465074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5831943,
+          -5.13465074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Samsul Muin - Sujadi Agus indarto - Kab. Lampung Timur - Sukadana",
+        "Longitude": 105.5932343,
+        "Latitude": -5.17731732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5932343,
+          -5.17731732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Surahman - Iskandar - Kab. Way Kanan - Kasui",
+        "Longitude": 104.4845144,
+        "Latitude": -4.72777592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4845144,
+          -4.72777592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Surahman - Jumiran - Kab. Way Kanan - Kasui",
+        "Longitude": 104.4591037,
+        "Latitude": -4.75456632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4591037,
+          -4.75456632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Surahman - Jamatus salbani - Kab. Way Kanan - Kasui",
+        "Longitude": 104.4092027,
+        "Latitude": -4.68820536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4092027,
+          -4.68820536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Yazit - Hendra Yanto - Kab. Lampung Barat - Kebun Tebu",
+        "Longitude": 104.5380987,
+        "Latitude": -5.07717472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5380987,
+          -5.07717472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Yazit - Imron - Kab. Lampung Barat - Kebun Tebu",
+        "Longitude": 104.5192858,
+        "Latitude": -5.07240525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5192858,
+          -5.07240525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Taswan - Ahmad yani - Kab. Lampung Barat - Air Hitam",
+        "Longitude": 104.4322762,
+        "Latitude": -5.11407429
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4322762,
+          -5.11407429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Taswan - Slamet Misnadi - Kab. Lampung Barat - Air Hitam",
+        "Longitude": 104.4084858,
+        "Latitude": -5.07473459
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4084858,
+          -5.07473459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ali zailani - kimun -  -",
+        "Longitude": 104.4418953,
+        "Latitude": -4.99858166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4418953,
+          -4.99858166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ali zailani - endi - Kab. Lampung Barat - Sumber Jaya",
+        "Longitude": -104.4250945,
+        "Latitude": -5.02820635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.40170288085938,
+          -5.000658223032492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ali zailani - Silan - Kab. Lampung Barat - Sumber Jaya",
+        "Longitude": 104.4357127,
+        "Latitude": -4.99732187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4357127,
+          -4.99732187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ali zailani - Edi Sabara - Kab. Lampung Barat - Sumber Jaya",
+        "Longitude": 104.4889238,
+        "Latitude": -5.00453403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4889238,
+          -5.00453403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Agustinus - Damiyati - Kab. Lampung Utara - Abung Pekurun",
+        "Longitude": 104.8166072,
+        "Latitude": -4.94868637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8166072,
+          -4.94868637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Agustinus - jumani - Kab. Lampung Utara - Abung Pekurun",
+        "Longitude": 104.8244012,
+        "Latitude": -4.97040931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8244012,
+          -4.97040931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Evi emilia - Amsori Atmana - Kab. Lampung Utara - Tanjung Raja",
+        "Longitude": 104.6627809,
+        "Latitude": -4.89519379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6627809,
+          -4.89519379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Evi emilia - Pungki awan krisna - Kab. Lampung Utara - Tanjung Raja",
+        "Longitude": 104.6627003,
+        "Latitude": -4.8979651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6627003,
+          -4.8979651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Evi emilia - bakrudin - Kab. Lampung Utara - Tanjung Raja",
+        "Longitude": 104.6714708,
+        "Latitude": -4.92150045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6714708,
+          -4.92150045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Evi emilia - Sugito - Kab. Lampung Utara - Tanjung Raja",
+        "Longitude": 104.6537732,
+        "Latitude": -4.90062084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6537732,
+          -4.90062084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Rezha Utari - Samsul Bahri - Kab. Way Kanan - Banjit",
+        "Longitude": 104.4590901,
+        "Latitude": -4.78164703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4590901,
+          -4.78164703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jaka Subhan - Yuhendri - Kab. Sambas - Galing",
+        "Longitude": 109.3262468,
+        "Latitude": 1.56265898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.3262468,
+          1.56265898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jaka Subhan - Ariansyah - Kab. Sambas - Galing",
+        "Longitude": 109.3210299,
+        "Latitude": 1.56672969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.3210299,
+          1.56672969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jaka Subhan - Akad - Kab. Sambas - Galing",
+        "Longitude": 109.38748,
+        "Latitude": 1.53674153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.38748,
+          1.53674153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jaka Subhan - Rendi - Kab. Sambas - Galing",
+        "Longitude": 109.3807189,
+        "Latitude": 1.54553293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.3807189,
+          1.54553293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Darma Irawan - Uray Razid - Kab. Sambas - Teluk Keramat",
+        "Longitude": 109.2529432,
+        "Latitude": 1.49275645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2529432,
+          1.49275645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Darma Irawan - Parjo Rippan - Kab. Sambas - Teluk Keramat",
+        "Longitude": 109.2579148,
+        "Latitude": 1.49979919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2579148,
+          1.49979919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Darma Irawan - Hamid - Kab. Sambas - Jawai",
+        "Longitude": 109.2333383,
+        "Latitude": 1.49856813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2333383,
+          1.49856813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Darma Irawan - Ikbal - Kab. Sambas - Teluk Keramat",
+        "Longitude": 109.2362769,
+        "Latitude": 1.48798072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2362769,
+          1.48798072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ade Irawan - YOHANES YANO - Kab. Sanggau - Jangkang",
+        "Longitude": 110.7300283,
+        "Latitude": 0.52069247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7300283,
+          0.52069247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ade Irawan - Yohanes Yano - Kab. Sanggau - Jangkang",
+        "Longitude": 110.7300283,
+        "Latitude": 0.52069247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7300283,
+          0.52069247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ade Irawan - Haryono - Kab. Sanggau - Entikong",
+        "Longitude": 110.3896081,
+        "Latitude": 0.86948931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3896081,
+          0.86948931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Yuni Eriyanti - Herawati Telly - Kab. Bengkayang - Tujuh Belas",
+        "Longitude": 109.7996564,
+        "Latitude": 1.05051801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.7996564,
+          1.05051801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jumadi - Sukri - Bangka Tengah - Namang",
+        "Longitude": 106.1794446,
+        "Latitude": -2.32724341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1794446,
+          -2.32724341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Damendra - Rustam Efendi - Bangka Selatan - Payung",
+        "Longitude": 107.6917819,
+        "Latitude": -6.9727145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.26251220703125,
+          -2.644019575691875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Damendra - Izham - Bangka Selatan - Payung",
+        "Longitude": 106.64656,
+        "Latitude": -2.65646
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.64656,
+          -2.65646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ashari - Azwar - Bangka Tengah - Sungai Selan",
+        "Longitude": 106.0526355,
+        "Latitude": -2.42813846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0526355,
+          -2.42813846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Ashari - Pauzi - Bangka Tengah - Sungai Selan",
+        "Longitude": 106.0532095,
+        "Latitude": -2.42620218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0532095,
+          -2.42620218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Bambang S - Bustanto - Bangka Tengah - Lubuk Besar",
+        "Longitude": 106.6465,
+        "Latitude": -2.676564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6465,
+          -2.676564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Indrajaya - Aripin - Bangka Tengah - Lubuk Besar",
+        "Longitude": 106.645465,
+        "Latitude": -2.604656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.645465,
+          -2.604656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Indrajaya - Tirta - Bangka Tengah - Lubuk Besar",
+        "Longitude": 106.64253,
+        "Latitude": -2.604556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.64253,
+          -2.604556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Melki A - Heri - Bangka Tengah - Lubuk Besar",
+        "Longitude": 106.648,
+        "Latitude": -2.604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.648,
+          -2.604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Agus pranomo - Marno - Bangka Selatan - Toboali",
+        "Longitude": 106.416195,
+        "Latitude": -2.837651667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.416195,
+          -2.837651667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Agus pranomo - apen - Bangka Selatan - Toboali",
+        "Longitude": 106.3732883,
+        "Latitude": -2.866436667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3732883,
+          -2.866436667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Agus pranomo - kok - Bangka Selatan - Toboali",
+        "Longitude": 106.3717317,
+        "Latitude": -2.870426667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3717317,
+          -2.870426667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Agus pranomo - ari saputra - Bangka Selatan - Toboali",
+        "Longitude": 106.3671667,
+        "Latitude": -2.86534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3671667,
+          -2.86534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Yadi - Noviriyadi - Bangka Selatan - Air Gegas",
+        "Longitude": 106.3987083,
+        "Latitude": -2.760066667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3987083,
+          -2.760066667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Yadi - heri purnomo - Bangka Selatan - Air Gegas",
+        "Longitude": 106.4582667,
+        "Latitude": -2.72588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4582667,
+          -2.72588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Yadi - rosi prayoga - Bangka Selatan - Air Gegas",
+        "Longitude": 106.4971767,
+        "Latitude": -2.653925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44790649414062,
+          -2.681744298083772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Suparman - rahmat rudiyat - Bangka Barat - Tempilang",
+        "Longitude": 105.6739683,
+        "Latitude": -2.007025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6739683,
+          -2.007025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Suparman - jurnain - Bangka Barat - Tempilang",
+        "Longitude": 105.6773683,
+        "Latitude": -2.014173333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6773683,
+          -2.014173333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Suparman - firdaus - Bangka Barat - Tempilang",
+        "Longitude": 105.666685,
+        "Latitude": -2.01541
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.666685,
+          -2.01541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Suparman - jamri -  -",
+        "Longitude": 105.66395,
+        "Latitude": -2.018646667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.66395,
+          -2.018646667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Tua Surono - eko - Bangka Selatan - Payung",
+        "Longitude": 106.2011867,
+        "Latitude": -2.695131667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2011867,
+          -2.695131667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Tua Surono - sarmito - Bangka Selatan - Payung",
+        "Longitude": 106.180375,
+        "Latitude": -2.743355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.180375,
+          -2.743355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Tua Surono - benny - Bangka Selatan - Payung",
+        "Longitude": 106.180345,
+        "Latitude": -2.743385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.180345,
+          -2.743385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Tua Surono - mukri - Bangka Selatan - Payung",
+        "Longitude": 106.1506383,
+        "Latitude": -2.72155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1506383,
+          -2.72155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Bambang - abdur rohman - Bangka Selatan - Simpang Rimba",
+        "Longitude": 105.94606,
+        "Latitude": -2.62524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94606,
+          -2.62524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Bambang - arianto - Bangka Selatan - Simpang Rimba",
+        "Longitude": 105.94594,
+        "Latitude": -2.625153333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94594,
+          -2.625153333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Bambang - fikri yadi - Bangka Selatan - Simpang Rimba",
+        "Longitude": 107.6916567,
+        "Latitude": -6.97277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99334716796875,
+          -2.6385322473984263
+        ]
+      }
+    }
+  ]
+}
